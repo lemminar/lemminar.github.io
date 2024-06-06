@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Lemminar</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Lemminar</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2024 23:47:42 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third</title>
+      <link>http://localhost:1313/third/</link>
+      <pubDate>Thu, 06 Jun 2024 23:47:42 +0530</pubDate>
+      <guid>http://localhost:1313/third/</guid>
+      <description>This is just check.&#xA;$\varepsilon$</description>
+    </item>
+    <item>
+      <title>A Curious Result</title>
+      <link>http://localhost:1313/second/</link>
+      <pubDate>Thu, 06 Jun 2024 15:59:54 +0530</pubDate>
+      <guid>http://localhost:1313/second/</guid>
+      <description>Theorem If $f:X\to Y$ is a function such that this cannot be coniasdkasda asd as d&#xA;Proof. Let there be light.</description>
+    </item>
+    <item>
+      <title>New</title>
+      <link>http://localhost:1313/new/</link>
+      <pubDate>Thu, 06 Jun 2024 15:59:54 +0530</pubDate>
+      <guid>http://localhost:1313/new/</guid>
+      <description>Let $f:X\to Y$ be a continous function, where $X$ is a topological space and $Y$ is also so.&#xA;\(a\)&#xA;$a$&#xA;$$\alpha$$ </description>
+    </item>
   </channel>
 </rss>
