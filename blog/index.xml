@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test Hugo</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Test Hugo</description>
+    <title>Blogs on Test Hugo</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Test Hugo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Jun 2024 15:59:54 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>New</title>
-      <link>http://localhost:1313/about/some/</link>
-      <pubDate>Thu, 06 Jun 2024 15:59:54 +0530</pubDate>
-      <guid>http://localhost:1313/about/some/</guid>
-      <description>Let $f:X\to Y$ be a continous function, where $X$ is a topological space and $Y$ is also so.&#xA;\(a\)&#xA;$a$&#xA;$$\alpha$$ </description>
-    </item>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New</title>
       <link>http://localhost:1313/blog/hadamard/</link>
