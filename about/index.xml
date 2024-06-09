@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on Test Hugo</title>
+    <title>Abouts on Lemminar</title>
     <link>http://localhost:1313/about/</link>
-    <description>Recent content in Abouts on Test Hugo</description>
+    <description>Recent content in Abouts on Lemminar</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Jun 2024 15:59:54 +0530</lastBuildDate>
